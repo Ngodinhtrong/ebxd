@@ -1,0 +1,9 @@
+sf_mirror_attempt
+"npppluginmgr:nchc:xml/plugins.md5.txt"
+downloads.sourceforge.net/
+1536
+4249080432
+30567208
+4249080432
+30567208
+*

@@ -1,0 +1,27 @@
+Hyperlink: + create a new todo item
+
+
+Function:  + input date
+	+ input Descriptions off the todo
+	+Save
+	+ Mark as Done?
+	+ Delete
+
+
+when clicking the "" icon, the todo will be marked as completed
+
+
+When users create a todo list, the system displays it in the todo list in addition to the main interface.
+
+Calendar: 
+When user click calendar icon system can displayed  a table calendar
+When user move the mouse in table calendar , it change color and highlight 
+
+Description: 
+
+Check textbox when users enter 1000 characters
+'
+
+
+	
+	 

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Tính t?ng</title>
+	<link rel="stylesheet" href="">
+	<style type="text/css" media="screen">
+	label{
+		float: left;
+		width: 100px;
+}
+input,select{
+	margin-bottom: 5px;
+}
+		
+	</style>
+</head>
+<body>
+<form action="tinhTong.php" method="post" accept-charset="utf-8" >
+	
+	<label>Tham s? a:</label>
+	<input type="text" name="a">
+	<br/>
+	<label>Tham s? b:</label>
+	<input type="text" name="b">
+	<br/>
+	<label>Tham s? c:</label>
+	<input type="text" name="c">
+	<br/>
+	<label>&nbsp;</label>
+	<input type="submit" value="button" name="btnok"/>
+</form>
+<?php
+	class TinhTong {
+
+		public $a;
+		public $b;
+	
+	  	public function __construct ( $a , $b = 0) {
+			$this->a = $a;
+			$this->b = $b;
+	  	}
+
+		function tong() {
+			return $this->a + $this->b;
+		}
+	}
+
+	if(isset($_POST['a']) && isset($_POST['a'])) {
+		$a = $_POST['a'];
+		$b = $_POST['b'];
+		$example = new TinhTong($a, $b);
+		echo $example->tong();
+	}
+
+?>
+</body>
+</html>

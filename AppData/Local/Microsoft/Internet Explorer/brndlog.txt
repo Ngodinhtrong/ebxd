@@ -1,0 +1,239 @@
+09/26/2016 07:46:40 Checking for existence of Branding Active Setup stub...
+09/26/2016 07:46:40 InternetExplorerBrandGUID didn't exist: Branding component not installed
+09/26/2016 07:46:40 Inf Version is set to "8,00,7601,17514".
+09/26/2016 07:46:40 HKCU Active Setup Key not found.
+
+09/26/2016 07:46:40    COM initialized with S_OK success code.
+
+09/26/2016 07:46:40 Branding Internet Explorer...
+09/26/2016 07:46:40 Command line is "/mode:isp /peruser".
+
+09/26/2016 07:46:41 Global branding settings are:
+09/26/2016 07:46:41    Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+09/26/2016 07:46:41    Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+09/26/2016 07:46:41    Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+09/26/2016 07:46:41 Done.
+
+09/26/2016 07:46:41    About to clear previous branding...
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing migration of old settings...
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing wininet setup...
+09/26/2016 07:46:41    There are no connection settings to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing deletion of connection settings...
+09/26/2016 07:46:41    Existing connection settings weren't specified to be deleted!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing zones HKCU settings...
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing local machine policies and restrictions...
+09/26/2016 07:46:41    There are no local machine *.inf files to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing current user policies and restrictions...
+09/26/2016 07:46:41    There are no current user *.inf files to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing legacy policies and restrictions...
+09/26/2016 07:46:41        There are no local machine *.inf files to process!
+09/26/2016 07:46:41        There are no current user *.inf files to process!
+09/26/2016 07:46:41    There are no legacy *.inf files to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing general customizations...
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing Help->About customization...
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing browser toolbar buttons...
+09/26/2016 07:46:41    There are no toolbar buttons to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing root certificates...
+09/26/2016 07:46:41    This feature is for ISPs only!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing default favorites and/or quick links...
+09/26/2016 07:46:41    Creating separate thread for processing default favorites...
+
+09/26/2016 07:46:41    COM initialized with S_OK success code.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41            <Favorites> folder location is "C:\Users\trong.ngo\Favorites".
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Microsoft Websites\IE site on Microsoft.com.url",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?linkid=44661",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Microsoft Websites\IE Add-on site",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=50893",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Microsoft Websites\Microsoft At Home",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?linkid=55424",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Microsoft Websites\Microsoft At Work",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?linkid=68920",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSN",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=54729",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSN Sports",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68921",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSNBC News",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68922",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSN Money",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68923",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSN Entertainment",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68924",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "MSN Websites\MSN Autos",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=55143",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Windows Live\Windows Live Mail",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68925",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Windows Live\Windows Live Spaces",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=68927",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Windows Live\Windows Live Gallery",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=70742",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Windows Live\Get Windows Live",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?LinkId=69172",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41        Determining favorites attributes...
+09/26/2016 07:46:41        marked as Low Integrity,
+09/26/2016 07:46:41        Title     - "Microsoft Websites\Microsoft Store",
+09/26/2016 07:46:41        URL       - "http://go.microsoft.com/fwlink/?linkid=140813",
+09/26/2016 07:46:41        with a default icon,
+09/26/2016 07:46:41        not marked IEAK created,
+09/26/2016 07:46:41        Done.
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing deletion of favorites and/or quick links...
+09/26/2016 07:46:41    None of the favorites folders were specified to be deleted!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing favorites...
+09/26/2016 07:46:41    There are no favorites to add!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing ordering of favorites...
+09/26/2016 07:46:41    Favorites will be put into the default position!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing quick links...
+09/26/2016 07:46:41    There are no quick links to add!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing ordering of quick links...
+09/26/2016 07:46:41    Quick Links will be put into the default position!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing connection settings...
+09/26/2016 07:46:41    There are no connection settings to process!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Processing TrustedPublisherLockdown restriction...
+09/26/2016 07:46:41    This restriction is not set!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Creating feeds...
+09/26/2016 07:46:41 Processing [Feeds] section...
+
+09/26/2016 07:46:41 Processing [FavoritesBar] section for Feeds...
+
+09/26/2016 07:46:41 Processing [FavoritesBar] section for WebSlices...
+
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Creating start pages...
+09/26/2016 07:46:41    There are no start pages to add!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Creating search providers...
+09/26/2016 07:46:41    There are no search providers to add!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Installing Activities...
+09/26/2016 07:46:41    There are no Actitivies to Install!
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Installing Unattend Favorite bar items...
+09/26/2016 07:46:41 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+09/26/2016 07:46:41 ProcessUnattendFavBarItems processing favbaritems from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\FavoriteBarItems
+09/26/2016 07:46:41 No subkeys found.
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Installing Unattend Activites...
+09/26/2016 07:46:41 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+09/26/2016 07:46:41 ProcessUnattendActivities processing activities from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\Accelerators
+09/26/2016 07:46:41 No subkeys found.
+09/26/2016 07:46:41    Done.
+
+09/26/2016 07:46:41    Refreshing browser settings...
+09/26/2016 07:46:41    Broadcasting "Windows settings change" to all top level windows...
+09/26/2016 07:46:41    Done.
+09/26/2016 07:46:41 Done.
+09/26/2016 07:46:41 Done.
